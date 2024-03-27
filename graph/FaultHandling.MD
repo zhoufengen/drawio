@@ -1,4 +1,4 @@
-```mermaid
+```sequence
 OnCall运维->故障:发现故障
 OnCall运维->OnCall运维: 初步分析故障原因
 OnCall运维->事故处理小组: 召集业务开发或其它必要资源
